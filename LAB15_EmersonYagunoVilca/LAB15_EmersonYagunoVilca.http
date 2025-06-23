@@ -1,0 +1,6 @@
+@LAB15_EmersonYagunoVilca_HostAddress = http://localhost:5187
+
+GET {{LAB15_EmersonYagunoVilca_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
